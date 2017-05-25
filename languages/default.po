@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPTuts WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-28 10:51-0800\n"
+"PO-Revision-Date: 2015-12-28 10:51-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html_e;esc_html_x;"
+"esc_html__;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Unfortunately, the page you tried accessing could not be retrieved."
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:26
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../author.php:18
+msgid "Articles Written By"
+msgstr ""
+
+#: ../comments.php:27
+msgid "This article has 1 comment"
+msgstr ""
+
+#: ../comments.php:29
+#, php-format
+msgid "This article has %s comments"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../content-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:17
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: ../content-none.php:19
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: ../content-none.php:21
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: ../content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../header.php:47
+msgid "Menu"
+msgstr ""
+
+#: ../page.php:35 ../templates/fullwidth.php:36
+msgid "Edit Page"
+msgstr ""
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:12 ../functions/mobile-search.php:17
+msgid "To search type and hit enter"
+msgstr ""
+
+#: ../single.php:31
+msgid "Edit Post"
+msgstr ""
+
+#: ../functions/comments-callback.php:23
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments-callback.php:23
+msgid "Edit"
+msgstr ""
+
+#: ../functions/comments-callback.php:48
+msgid "Reply"
+msgstr ""
+
+#: ../functions/comments-callback.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/dashboard-feed.php:14
+msgid "WordPress Articles"
+msgstr ""
+
+#: ../functions/dashboard-feed.php:15
+msgid "Web Design Articles"
+msgstr ""
+
+#: ../functions/dashboard-feed.php:52 ../functions/dashboard-feed.php:116
+msgid "No items"
+msgstr ""
+
+#: ../functions/dashboard-feed.php:56 ../functions/dashboard-feed.php:120
+msgid "ago"
+msgstr ""
+
+#: ../functions/excerpts.php:28
+msgid "continue reading"
+msgstr ""
+
+#: ../functions/excerpts.php:28
+msgid "Read more"
+msgstr ""
+
+#: ../functions/pagination.php:63
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions/pagination.php:65
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions/post-author.php:30
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: ../functions/post-meta.php:55
+msgid "0 Comments"
+msgstr ""
+
+#: ../functions/post-meta.php:55
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions/post-meta.php:55
+msgid "% Comments"
+msgstr ""
+
+#: ../functions/related-posts.php:56
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions/theme-setup.php:17
+msgid "Main"
+msgstr ""
+
+#: ../functions/welcome.php:54 ../functions/welcome.php:55
+msgid "WPTuts Theme"
+msgstr ""
+
+#: ../functions/welcome.php:93
+msgid "Congrats on choosing this awesome WordPress theme for your website!"
+msgstr ""
+
+#: ../functions/welcome.php:97
+msgid "About"
+msgstr ""
+
+#: ../functions/welcome.php:101
+msgid "GPL License"
+msgstr ""
+
+#: ../functions/welcome.php:102
+msgid ""
+"This theme is licensed under the GPL license. This means you can use it for "
+"anything you like as long as it remains GPL."
+msgstr ""
+
+#: ../functions/welcome.php:106
+msgid "Credits"
+msgstr ""
+
+#: ../functions/welcome.php:108
+msgid ""
+"This theme was created by <a href=\"http://www.wpexplorer.com\" target="
+"\"_blank\">WPExplorer.com</a>."
+msgstr ""
+
+#: ../functions/welcome.php:110
+msgid "We work hard to develop and update this theme."
+msgstr ""
+
+#: ../functions/welcome.php:112
+msgid ""
+"A back-link to our website is very much appreciated or you can follow us via "
+"our social media!"
+msgstr ""
+
+#: ../functions/welcome.php:117
+msgid "Liability"
+msgstr ""
+
+#: ../functions/welcome.php:119
+msgid ""
+"WPExplorer.com shall not be held liable for any damages, including, but not "
+"limited to, the loss of data or profit, arising from the use of, or "
+"inability to use, this theme."
+msgstr ""
+
+#: ../functions/welcome.php:124
+msgid "Getting Started"
+msgstr ""
+
+#: ../functions/welcome.php:126
+msgid ""
+"Below you will find some useful links to get you started with this theme."
+msgstr ""
+
+#: ../functions/welcome.php:128
+msgid "Customize Your Site"
+msgstr ""
+
+#: ../functions/welcome.php:129
+msgid "Theme Page"
+msgstr ""
+
+#: ../functions/welcome.php:134
+msgid "Recommendations"
+msgstr ""
+
+#: ../functions/welcome.php:139
+msgid "Plugins"
+msgstr ""
+
+#: ../functions/welcome.php:140
+msgid ""
+"Below you will find links to plugins we (WPExplorer.com staff) personally "
+"like and recommend. None of these plugins are required for your theme to "
+"work, they simply add additional functionality."
+msgstr ""
+
+#: ../functions/welcome.php:153
+msgid "Total Drag & Drop Theme"
+msgstr ""
+
+#: ../functions/welcome.php:154
+msgid ""
+"Check out our most advanced (yet easy to use) and flexible theme to date."
+msgstr ""
+
+#: ../functions/welcome.php:159
+msgid "WordPress Hosting"
+msgstr ""
+
+#: ../functions/welcome.php:160
+msgid ""
+"If you need fast and reliable hosting we recommend the same host we use and "
+"love WPEngine."
+msgstr ""
+
+#: ../functions/welcome.php:165
+msgid "Deals & Coupons"
+msgstr ""
+
+#: ../functions/welcome.php:166
+msgid "Check out our coupons page for great deals on WordPress resources."
+msgstr ""
+
+#: ../functions/widget-areas.php:11
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/widget-areas.php:13
+msgid "Widgets in this area are used in the sidebar region."
+msgstr ""
+
+#: ../functions/widget-areas.php:21
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions/widget-areas.php:23
+msgid "Widgets in this area are used in the first footer region."
+msgstr ""
+
+#: ../functions/widget-areas.php:31
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions/widget-areas.php:33
+msgid "Widgets in this area are used in the second footer region."
+msgstr ""
+
+#: ../functions/widget-areas.php:41
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions/widget-areas.php:43
+msgid "Widgets in this area are used in the third footer region."
+msgstr ""
+
+#: ../functions/meta/init.php:207
+msgid "Clear"
+msgstr ""
+
+#: ../functions/meta/init.php:208
+msgid "Default"
+msgstr ""
+
+#: ../functions/meta/init.php:209
+msgid "Select Color"
+msgstr ""
+
+#: ../functions/meta/init.php:210
+msgid "Current Color"
+msgstr ""
+
+#: ../functions/meta/init.php:936
+msgid "Save"
+msgstr ""
+
+#: ../functions/meta/usage.php:24
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/meta/usage.php:31
+msgid "Video URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:32
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../functions/meta/usage.php:32
+msgid "Learn More"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:25
+msgid "Image Gallery"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:81
+#: ../functions/meta/gallery-metabox/gmb-admin.php:145
+msgid "Remove image"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:92
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:102
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:126
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:128
+msgid "Add to gallery"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:167
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:437
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:448
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: ../functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:38
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:56
+msgid "Theme Settings"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:66
+msgid "Image Logo"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:78
+msgid "Homepage Slider Featured Category"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:91
+msgid "Homepage Slider Count"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:105
+msgid "Read More Link"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:119
+msgid "Featured Image on Posts"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:133
+msgid "Header Banner"
+msgstr ""
+
+#: ../functions/theme-customizer/general.php:147
+msgid "Custom Copyright"
+msgstr ""
